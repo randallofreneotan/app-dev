@@ -7,7 +7,7 @@ My first repository.
 
 This is so emotional! 😢 ==I thought this movie will only make me laugh, but it made me cried more==
 
-![poster](![image](https://github.com/randallofreneotan/app-dev/assets/150876881/18b98ac5-809a-45ac-bfc9-a26c99992f27))
+![image](https://github.com/randallofreneotan/app-dev/assets/150876881/18b98ac5-809a-45ac-bfc9-a26c99992f27)
 
 |             | Description |
 | ----------- | ----------- |
