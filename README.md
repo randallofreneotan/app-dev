@@ -20,7 +20,7 @@ This is so emotional! 😢 ==I thought this movie will only make me laugh, but i
 | About       |3 Idiots is one of the best educational movies in the Indian film industry. This movie is directed by Rajkumar Hirani which is based on Chetan Bhagat’s novel Five Point Someone: What not to do at IIT. The film follows the story of three friends (Rancho, Farhan, Raju) studying in an Indian engineering college and is a satire about the social pressures under the present Indian education system. We can learn many valuable lessons from this movie.|
 
 `code`
-```
+```json
 {
   "title": "Three Idiots",
   "category": "Comedy/Drama",
