@@ -2,8 +2,8 @@
 My first repository.
 
 ---
-### My Favorite Series/Movie
-**Three Idiots** 
+## My Favorite Series/Movie
+# Three Idiots
 
 This is so emotional! 😢 ==I thought this movie will only make me laugh, but it made me cried more==
 
